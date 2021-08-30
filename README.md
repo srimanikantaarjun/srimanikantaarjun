@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @srimanikantaarjun
+- 👋 Hi, I’m @srimanikantaarjun, **[a Certified TensorFlow Developer]**(https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/37812535)
 - 👀 I’m interested in Data Analysis, Exploration, and Visualization, Machine Learning, Deep Learning, Natural Language Processing and Artificial Intelligence
-- 🌱 I’m currently pursuing my Masters in Data Science learning Machine Learning and Deep Learning algorithms, tools, and concepts
-- 💞️ I’m looking to collaborate on projects to analyze and visualize data for reports and summary of data, designing, building and implementing Machine Learning and Deep Learning algorithms and models 
+- 🌱 I’m a recent graduate with Masters in Data Science specializing in Machine Learning and Deep Learning algorithms, tools, and concepts
+- 💞️ I’m looking to collaborate on projects to analyze and visualize data for reports and summary of data, designing, building and implementing Machine Learning and Deep Learning algorithms and models
 - 📫 You can reach me via srimanikantaarjun@gmail.com OR 475-300-8962
 
 <!---
